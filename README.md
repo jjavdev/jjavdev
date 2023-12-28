@@ -24,5 +24,6 @@
     </a>
   </p>
 
-<a [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjavCode)](https://git.io/streak-stats)>
-
+<section align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjavCode)](https://git.io/streak-stats)
+</section>
