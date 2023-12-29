@@ -20,6 +20,6 @@ const jjavCode = {
 }
 ```
 
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230" align="left"> <em><b>I love solving problems</b>  if you have any <b>, I will automate it for you!</b> :)</em>
+<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230" align="left"> <em align="center"><b>I love solving problems</b>  if you have any <b>, I will automate it for you!</b> :)</em>
 
 ---
