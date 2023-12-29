@@ -14,13 +14,8 @@ const jjavCode = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C/C++, Python, Java, Rust, PHP],
   tools: [React, NextJS, Node, Styled-Components, Tailwind CSS],
-  architecture: ["event-driven", "design system pattern"],
-  /*techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                   },*/
- challenge: "I am doing the courses of #FreeCodeCamp ocused on JavaScript algoritms and data structures, Backend development and API"
+
+ challenge: "I am doing the courses of #FreeCodeCamp focused on JavaScript algoritms and data structures, Backend development and API"
 }
 ```
 
