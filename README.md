@@ -1,6 +1,6 @@
-<h2> Hi there, I'm Jhordam!👋</h2>
+<h2> Hola, soy Jhordam!👋</h2>
 <img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.uneg.edu.ve/">University of Venezuela</a><img src="https://media.giphy.com/media/MEuxS23L69pnTsANjX/giphy.gif" width="45"></br>Visit my website <a href="https://dynamic-stroopwafel-836cc3.netlify.app/#sec4">jhordamaguilera.dev</a><img> 
+<p><em>Back-end developer,</em> <em>visita mi página <a href="https://dynamic-stroopwafel-836cc3.netlify.app/#sec4"> jhordamaguilera.dev</em></a><img> 
 </em></p>
 
 [![Twitter: @jhordam_dev](https://img.shields.io/twitter/follow/jhordam_dev?style=social)](https://twitter.com/jhordam_dev)
@@ -8,18 +8,19 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/jjavCode?label=follow&style=social)](https://github.com/jjavCode)
 
 
-### <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50" height="50" align="left"> Something more about me...  
+### <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50" height="50" align="left"> Algo más sobre mi...  
 
 ```javascript
 const jjavCode = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C/C++, Python, Java, Rust, PHP],
-  tools: [React, NextJS, Node, Styled-Components, Tailwind CSS],
+  front-end: [Javascript, Typescript, HTML, CSS],
+  back-end: [C/C++, Python, Java, Rust, PHP],
+  tools: [React, NextJS, Node, Styled-Components, Tailwind CSS, VS code, NPM],
 
- challenge: "I am doing the courses of #FreeCodeCamp focused on JavaScript algoritms and data structures, Backend development and API"
+ challenge: "He realizado cursos en #FreeCodeCamp enfocado en JavaScript algoritmos y estructuras de datos"
 }
 ```
 
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="60" align="left"> <em align="center"><b>I love solving problems</b>  if you have any <b>, I will automate it for you!</b> :)</em>
+<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="60" align="left"> <em align="center"><b>¡Solucionó problemas digitales!</b> ¿Tienes un problema digital?, <b>¡Hallaste la solución!, contactanme</b> :)</em>
 
 ---
