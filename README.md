@@ -1,5 +1,5 @@
-<h2> Hi there, I'm Jhordam!</h2>
-<p><em>Software Enginner at <a href="https://www.uneg.edu.ve/">University of Venezuela</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi there, I'm Jhordam!👋</h2>
+<p><em>Software Enginner at <a href="https://www.uneg.edu.ve/">University of Venezuela</a><img src="https://media.giphy.com/media/MEuxS23L69pnTsANjX/giphy.gif" width="45"></br>Visit my website <a href="https://dynamic-stroopwafel-836cc3.netlify.app/#sec4">jhordamaguilera.dev</a><img> 
 </em></p>
 
 [![Twitter: @jhordam_dev](https://img.shields.io/twitter/follow/jhordam_dev?style=social)](https://twitter.com/jhordam_dev)
@@ -7,23 +7,23 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/jjavCode?label=follow&style=social)](https://github.com/jjavCode)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50" height="50" align="left"> Something more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
+const jjavCode = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C/C++, Python, Java, Rust, PHP],
+  tools: [React, NextJS, Node, Styled-Components, Tailwind CSS],
+  architecture: ["event-driven", "design system pattern"],
+  /*techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+                   },*/
+ challenge: "I am doing the courses of #FreeCodeCamp ocused on JavaScript algoritms and data structures, Backend development and API"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love solving problems</b>  if you have any <b>hi, I will automate it for you!</b> :)</em>
 
 ---
