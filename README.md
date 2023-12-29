@@ -1,4 +1,5 @@
 <h2> Hi there, I'm Jhordam!👋</h2>
+<img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.uneg.edu.ve/">University of Venezuela</a><img src="https://media.giphy.com/media/MEuxS23L69pnTsANjX/giphy.gif" width="45"></br>Visit my website <a href="https://dynamic-stroopwafel-836cc3.netlify.app/#sec4">jhordamaguilera.dev</a><img> 
 </em></p>
 
