@@ -1,6 +1,6 @@
 <h2> Hola, soy Jhordam!👋</h2>
 <img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230">
-<p><em>Software developer,</em> <em>visita mi página <a href="https://dynamic-stroopwafel-836cc3.netlify.app/#sec4"> jhordamaguilera.dev</em></a><img> 
+<p><em>Fullstack developer,</em> <em>visita mi página <a href="https://dynamic-stroopwafel-836cc3.netlify.app/#sec4"> jhordamaguilera.dev</em></a><img> 
 </em></p>
 
 [![Twitter: @jhordam_dev](https://img.shields.io/twitter/follow/jhordam_dev?style=social)](https://twitter.com/jhordam_dev)
