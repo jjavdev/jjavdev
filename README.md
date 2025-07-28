@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Jhordam nice to meet you!<br>Like me be a development Web in TI industry<br>
+Hi there, I'm Jhordam nice to meet you!<br>Like me be a Software Developer in TI industry<br>
 
 
 ## 🌐 Socials:
