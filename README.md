@@ -1,8 +1,7 @@
-# 💫 About Me:
-Hi there, I'm Jhordam nice to meet you!<br>Like me be a Software Developer in TI industry<br>
+# 💫 Sobre mi:
+Hola, soy Jhordam, un placer en conocerte, soy un desarrollador web full-stack con experiencia en tecnologías como react, typescript, javascript, node.js, entre muchos otros. 
 
-
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jhordam.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jjav_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjavdev) 
 
 # 💻 Tech Stack:
@@ -15,13 +14,10 @@ Hi there, I'm Jhordam nice to meet you!<br>Like me be a Software Developer in TI
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jjavdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jjavdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jjavdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--  https://gprm.itsvg.in -->
