@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjavdev" alt="jjavdev" /></a> </p>
 
-- 🌱 Estoy aprendiendo actualmente **Microsoft learn courses, Platzi Courses, etc**
+- 👨‍💻 Todos mis proyectos están disponibles en mi repositorio (coming soon)
 
-- 👨‍💻 Todos mis proyectos están disponibles en mi repositorio [](coming soon)
-
-- 📝 Estoy constantemente documento mis avances en mi blog [](coming soon)
+- 📝 Estoy constantemente documento mis avances en mi blog (coming soon)
 
 - 💬 Preguntame sobre **react, node.js, javascript, opencode, ia, sql, postgresql, etc.**
 
