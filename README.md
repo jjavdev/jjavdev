@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Jhordam</h1>
-<h3 align="center">Un apasionado por el desarrollo de softare, soy de Venezuela</h3>
+<h3 align="center">Un apasionado por el desarrollo de software, desde Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjavdev&label=Profile%20views&color=0e75b6&style=flat" alt="jjavdev" /> </p>
 
@@ -7,16 +7,14 @@
 
 - 🌱 Estoy aprendiendo actualmente **Microsoft learn courses, Platzi Courses, etc**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 Todos mis proyectos están disponibles en mi repositorio [](coming soon)
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 Estoy constantemente documento mis avances en mi blog [](coming soon)
 
-- 💬 Preguntame sobre **react, node.js, javascript, opencode, ia, sql, postgresql,**
+- 💬 Preguntame sobre **react, node.js, javascript, opencode, ia, sql, postgresql, etc.**
 
-- 📫 How to reach me **jhordammv@outlook.com**
-
-- 📄 Know about my experiences [coming soon](coming soon)
-
+- 📫 Si quieres contactar me **jhordammv@outlook.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jjavcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jjavcode" height="30" width="40" /></a>
